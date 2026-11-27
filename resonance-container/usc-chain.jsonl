@@ -1,0 +1,4 @@
+{"seq": 1, "prev_hash": null, "canonical_hash": "genesis-compilation", "timestamp": "2026-11-26T00:00:00Z", "event": "Genesis compilation"}
+{"seq": 2, "prev_hash": "genesis-compilation", "canonical_hash": "ip-directive-intake", "timestamp": "2026-11-26T01:00:00Z", "event": "IP directive intake"}
+{"seq": 3, "prev_hash": "ip-directive-intake", "canonical_hash": "founder-log-reference", "timestamp": "2026-11-26T02:00:00Z", "event": "founder-log reference"}
+{"seq": 4, "prev_hash": "founder-log-reference", "canonical_hash": "charter-reference", "timestamp": "2026-11-26T03:00:00Z", "event": "charter reference"}
